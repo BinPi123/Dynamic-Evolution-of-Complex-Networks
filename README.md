@@ -1,1 +1,1 @@
-This repo is the official code of Dynamic Evolution of Complex Networks: A Reinforcement Learning Approach Applying Evolutionary Games to Community Structure. If you have any question about this paper or code, please contact Bin Pi (binpi2001@gmail.com).
+This repository is the official code of Dynamic Evolution of Complex Networks: A Reinforcement Learning Approach Applying Evolutionary Games to Community Structure. If you have any questions about this paper or code, please contact Bin Pi (binpi2001@gmail.com).
